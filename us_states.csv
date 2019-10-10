@@ -1,0 +1,59 @@
+﻿State,Region,crime_rate,incarc_rate
+Alaska,West,-804,258
+New Mexico,West,703,334
+Nevada,West,678,451
+Tennessee,South,633,429
+Louisiana,South,566,719
+Arkansas,South,551,598
+Alabama,South,551,486
+Missouri,Midwest,532,532
+Delaware,South,509,420
+South Carolina,South,502,386
+Maryland,Middle East,472,317
+Arizona,West,470,569
+Michigan,Midwest,459,397
+Oklahoma,South,450,704
+California,West,445,328
+Illinois,Midwest,436,324
+Texas,South,434,553
+Florida,South,430,466
+South Dakota,Midwest,418,453
+Indiana,Midwest,405,389
+Georgia,South,398,506
+Kansas,Midwest,380,332
+Massachusetts,Northeast,377,120
+New York,Northeast,376,249
+North Carolina,South,372,341
+Montana,West,368,350
+West Virginia,South,358,392
+Colorado,West,343,351
+Pennsylvania,Northeast,316,375
+Hawaii,West,309,240
+Wisconsin,Midwest,306,391
+Washington,West,302,262
+Ohio,Midwest,300,441
+Nebraska,Midwest,291,273
+Iowa,Midwest,291,285
+Mississippi,South,281,619
+Oregon,West,265,364
+North Dakota,Midwest,251,226
+New Jersey,Northeast,244,217
+Wyoming,West,244,429
+Utah,West,243,206
+Minnesota,Midwest,-243,191
+Rhode Island,Northeast,239,170
+Kentucky,South,232,527
+Idaho,West,230,447
+Connecticut,Northeast,227,268
+Virginia,South,218,437
+New Hampshire,Northeast,198,204
+Vermont,Northeast,158,180
+Maine,Northeast,124,0
+,,,
+,,,
+State,State name ,https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States,
+Region,Region of the country,https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States,
+crime_rate,crime rate per 100k  inhabitants,https://www.worldatlas.com/articles/the-most-dangerous-states-in-the-u-s.html,
+incarc_rate,Incarceration rates per 100k adults,http://worldpopulationreview.com/states/prison-population-by-state/,
+,,,
+"Data set representst the 50 states of America, with their regions, crime rates, and incarceration rates in 2019.",,,
